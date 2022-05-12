@@ -1,0 +1,5 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "solidity.defaultCompiler": "localFile",
+  "solidity.compileUsingLocalVersion": "/Users/smit/workspace/aave_fold_unfold/soljson-v0.6.12+commit.27d51765.js"
+}
